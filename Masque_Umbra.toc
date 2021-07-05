@@ -1,0 +1,21 @@
+## Interface: 90100
+## Title: Masque: |cffa330c9Umbra|r
+
+## Notes: Umbra skin for Masque.
+## Notes-deDE: Umbra-Skin für Masque.
+## Notes-esMX: Skin Umbra para Masque.
+## Notes-esES: Skin Umbra para Masque.
+## Notes-frFR: Skin de Umbra pour Masque.
+## Notes-itIT: Skin Umbra per Masque.
+## Notes-ruRU: Скин Umbra для Masque.
+## Notes-zhTW: Masque的Umbra皮膚。
+
+## Version: 9.1.0
+## Author: Hiraz
+## Dependencies: Masque
+
+## X-Website: http://www.curse.com/addons/wow/masque_umbra
+## X-Category: Interface Enhancements
+## X-Credits: StormFX
+
+Umbra.lua
